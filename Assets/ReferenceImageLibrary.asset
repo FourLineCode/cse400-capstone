@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4989568345969047433
+  m_GuidHigh: 4998896513832282542
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4905617878344643512
+      m_GuidHigh: 3290894739340358589
+    m_SerializedTextureGuid:
+      m_GuidLow: 3809354919870320650
+      m_GuidHigh: 2446461440941664426
+    m_Size: {x: 0.3, y: 0.4865034}
+    m_SpecifySize: 1
+    m_Name: WatchBox
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5526821522510893885
+      m_GuidHigh: 3764576132770250936
+    m_SerializedTextureGuid:
+      m_GuidLow: 10733365940586876645
+      m_GuidHigh: 2240152011845039785
+    m_Size: {x: 0.5, y: 0.325}
+    m_SpecifySize: 1
+    m_Name: 1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5280174310544959408
+      m_GuidHigh: 12117447005338668433
+    m_SerializedTextureGuid:
+      m_GuidLow: 13007414191871545357
+      m_GuidHigh: 6916518056345339194
+    m_Size: {x: 0.5, y: 0.325}
+    m_SpecifySize: 1
+    m_Name: east-west-university-ewu-logo-C27BC3985E-seeklogo.com
+    m_Texture: {fileID: 0}
